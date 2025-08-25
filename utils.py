@@ -1,0 +1,4 @@
+RANDOM_STATE = 0
+TEST_SIZE = 0.2
+ALPHA = 0.02
+TARGET = "SalePrice"
